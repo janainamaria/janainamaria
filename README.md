@@ -9,6 +9,10 @@
 
 - 📫 Meu email: **janainamariamdm@gmail.com**
 
+### Radical
+
+[![iuricode](https://github-readme-stats.vercel.app/api?username=janainamaria&theme=radical)](https://github.com/janainamaria/)    [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=janainamaria&hide=html&layout=compact&theme=radical)](https://github.com/janainamaria/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/janaina maria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janaina maria" height="30" width="40" /></a>
