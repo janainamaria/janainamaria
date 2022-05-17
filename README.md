@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janaina Maria</h1>
 <h3 align="center">Desenvolvedora front-end, curiosa por tecnologia.</h3>
 
-- 👯 Criei um projeto de cadastro de cliente de um restaurante **CADASTRIM**
+- 👯 Criei um projeto de carrinho de compras utilizando **REACT**
 
 - 🤝 Desenvolvi tambem um sistema de vizualização de resultados de uma rede de funeraria **VIEWDATA**
 
