@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janaina Maria</h1>
-<h3 align="center">Desenvolvedora front-end, curiosa por tecnologia.</h3>
+<h3 align="center">Product Designer, curiosa por tecnologia.</h3>
 
 - 👯 Criei um projeto de carrinho de compras utilizando **REACT**
 
