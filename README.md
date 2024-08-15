@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Janaina Maria</h1>
 <h3 align="center">Product Designer, curiosa por tecnologia.</h3>
 
-- 👯 Criei um projeto de carrinho de compras utilizando **REACT**
+- 👯 Criei um projeto para uma açaíteria utilizando **REACT**
 
 - 🤝 Desenvolvi tambem um sistema de vizualização de resultados de uma rede de funeraria **VIEWDATA**
 
-- 💬 Gosto de falar sobre **Javascript, Design e Musica**
+- 💬 Gosto de falar sobre **Design, programação e Música**
 
-- 📫 Meu email: **janainamariamdm@gmail.com**
+- 📫 Meu email: **janainamaria.designer@gmail.com**
 
 ### Radical
 
